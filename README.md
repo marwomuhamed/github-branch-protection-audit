@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a simple Python audit tool that checks whether the default branch of every repository in a GitHub organisation requires at least one approved pull request review before changes can be merged.
+This project is a Python audit tool that checks whether the default branch of every repository in a GitHub organisation requires at least one approved pull request review before changes can be merged.
 
 The script was developed as a **one-time audit tool** and is intentionally kept simple, readable and easy to maintain.
 
@@ -79,11 +79,11 @@ Status: FAIL
 Repository: config
 Status: SKIPPED
 
-=========================
+
 Audit Summary
-=========================
+
 Passed : 5
 Failed : 3
 Skipped: 2
-=========================
+
 ```
