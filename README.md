@@ -18,9 +18,9 @@ The script is **read-only** and does **not** make any changes to GitHub.
 - Detects each repository's default branch
 - Checks whether branch protection requires at least one approving review
 - Reports the result for each repository as:
-  - ✅ PASS
-  - ❌ FAIL
-  - ⏭️ SKIPPED
+  -  PASS
+  -  FAIL
+  -  SKIPPED
 - Displays an audit summary
 
 ---
